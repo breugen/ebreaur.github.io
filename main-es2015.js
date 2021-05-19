@@ -2124,11 +2124,11 @@ __webpack_require__.r(__webpack_exports__);
         "id": 1,
         "pictures": [
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+                "url": "/poza.jpg",
                 "description": "this picture label"
             },
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+                "url": "/poza.jpg",
                 "description": "this 2 picture label"
             }
         ],
@@ -2143,11 +2143,11 @@ __webpack_require__.r(__webpack_exports__);
         "id": 2,
         "pictures": [
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+                "url": "/poza.jpg",
                 "description": "this picture label"
             },
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+                "url": "/poza.jpg",
                 "description": "this 2 picture label"
             }
         ],
@@ -2162,11 +2162,11 @@ __webpack_require__.r(__webpack_exports__);
         "id": 3,
         "pictures": [
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+                "url": "/poza.jpg",
                 "description": "this picture label"
             },
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+                "url": "/poza.jpg",
                 "description": "this 2 picture label"
             }
         ],
@@ -2181,11 +2181,11 @@ __webpack_require__.r(__webpack_exports__);
         "id": 4,
         "pictures": [
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+                "url": "/poza.jpg",
                 "description": "this picture label"
             },
             {
-                "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+                "url": "/poza.jpg",
                 "description": "this 2 picture label"
             }
         ],
