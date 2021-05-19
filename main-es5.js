@@ -3826,10 +3826,10 @@
       __webpack_exports__["default"] = [{
         "id": 1,
         "pictures": [{
-          "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+          "url": "/poza.jpg",
           "description": "this picture label"
         }, {
-          "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+          "url": "/poza.jpg",
           "description": "this 2 picture label"
         }],
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -3841,10 +3841,10 @@
       }, {
         "id": 2,
         "pictures": [{
-          "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+          "url": "/poza.jpg",
           "description": "this picture label"
         }, {
-          "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+          "url": "/poza.jpg",
           "description": "this 2 picture label"
         }],
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -3856,10 +3856,10 @@
       }, {
         "id": 3,
         "pictures": [{
-          "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+          "url": "/poza.jpg",
           "description": "this picture label"
         }, {
-          "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+          "url": "/poza.jpg",
           "description": "this 2 picture label"
         }],
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -3871,10 +3871,10 @@
       }, {
         "id": 4,
         "pictures": [{
-          "url": "http://www.poianacuschit.ro/foto/2011/s5.jpg",
+          "url": "/poza.jpg",
           "description": "this picture label"
         }, {
-          "url": "http://www.poianacuschit.ro/foto/2011/s4.jpg",
+          "url": "/poza.jpg",
           "description": "this 2 picture label"
         }],
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
